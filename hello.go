@@ -30,4 +30,16 @@ func main(){
 	)
 	fmt.Printf("pi %f", pi)
 	fmt.Println(b)
+	var a1 = 4
+	var b1 = 6
+	var c1 = a1 + b1
+	fmt.Println(c1)
+	var c2 = a1 - b1
+	fmt.Println(c2)
+	var c3 = a1 * b1
+	fmt.Println(c3)
+	var c4 = b1 / a1
+	fmt.Println(c4)
+	var c5 = b1 % a1
+	fmt.Println(c5)
 }
